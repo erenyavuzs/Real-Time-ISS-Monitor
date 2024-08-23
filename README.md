@@ -1,6 +1,6 @@
 # Real Time ISS Monitor
 
-This Python project allows you to track the current position of the International Space Station (ISS) in real-time using a turtle graphic interface. It also retrieves information about the astronauts currently aboard the ISS.
+This project provides a real-time visualization of the International Space Station's (ISS) position. In addition to displaying the current location of the ISS on a world map, it also fetches and shows information about the astronauts currently aboard the station. The ISS's path is dynamically visualized as a line on the screen, continuously updating every 5 seconds, offering an engaging way to track the station's journey around the Earth.
 
 <img width="1274" alt="Screenshot" src="https://github.com/user-attachments/assets/537edca5-13a1-44ec-bb68-6c5e7da8f603">
 
